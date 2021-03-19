@@ -1,7 +1,7 @@
 # UCB Tool
-This project is a mock-up of a CLI tool.
+This project is a mock-up of a compiled CLI tool.
 
-The public repository is an example of how all developers are free to access the source code and raise any issues that need fixing and/or push updates/fixes themselves.
+The public repository is an example of how developers are free to access this source code and raise any issues that need fixing and/or push updates/fixes themselves.
 
 ## Envisioned workflow:
 1. Developers build the first release and can test it locally (in isolation) on their machines
